@@ -5,4 +5,4 @@ with one upperCase
 one lowerCase &
 one special character.
 
-#Live Demo of this App Here :  https://abdullah2723.github.io/password-generator/
+# Live Demo of this App Here :  https://abdullah2723.github.io/password-generator/
